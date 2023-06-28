@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Montserrat:wght@500&display=swap');
+
+body {
+    background-color: #EFE9E7;
+}
+#cata {
+    font-family: 'Merriweather', serif;
+    align-items: center;
+    background-color: #A5D09F;
+    height: 150px;
+    text-align:center;
+    color: #815636;
+    
+}
+#about-us{
+    margin-top: 53px;
+    
+}
+
+#titulosC {
+    text-align: left;
+    margin-top: 130px;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+}
+#titulos {
+    font-family: 'Merriweather', serif;
+    color: #815636;
+}
+
+#tarjetas{
+    text-align: center;
+    background-color: #A5D09F;
+    border-color: #EFE9E7;
+    margin: auto;
+}
